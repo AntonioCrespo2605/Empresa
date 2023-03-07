@@ -1,2 +1,2 @@
 # Empresa
-Repositorio para la asignatura de Empresa e Iniciativa Emprendedora
+Repositorio para la asignatura de Empresa e Iniciativa Emprendedora.
